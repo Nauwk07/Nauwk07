@@ -3,15 +3,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science at Intech.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
+🎓 &nbsp;I'm currently studying Computer Science at Intech Nîmes, south of France.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence & Backend Development in general.\
 ✍️ &nbsp;In my free time, I develop different personal projects.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at est.mortier@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.mortier-esteban.com/) for more details about me.
+✉️ &nbsp;You can shoot me an email at nauwk07@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Website](https://www.nauwk.fr/) for more details about me.
 
 ##### My social network
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/esteban-mortier-683b651b8/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/alexandremxthieu/)
 
 ### 🛠 &nbsp;Tech Stack
 ##### Languages
