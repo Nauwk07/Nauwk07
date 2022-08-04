@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Hi%20there%20👋)
 
 ![Discord](https://dcbadge.vercel.app/api/shield/224537059308732416?compact=true)
-![](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
+![](https://komarev.com/ghpvc/?username=Nauwk&style=for-the-badge&label=VIEWS&color=0001f2)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/massart-gael)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.massart@groupe-aen.info)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandremxthieu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nauwk07@gmail.com)
 
-#### 🙌 My name is Gaël
-#### 🎓 I'm a french SWE student
-#### 📗 Last academic project was in collaboration with [INEO-SENSE](https://www.ineo-sense.com/?lang=en)
-#### 🌱 Newly learned Angular & JEE
-#### 🐲 Actively involved in the development of [Stealthy](https://github.com/Pexilo/Stealthy)
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Computer Science at Intech.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
+✍️ &nbsp;In my free time, I develop different personal projects.\
+✉️ &nbsp;You can shoot me an email at nauwk07@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Website](https://nauwk.fr) for more details about me.
 
 ## 🛠 Tech Stack
 
