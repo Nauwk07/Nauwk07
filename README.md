@@ -25,4 +25,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic)
 
 
-![](https://komarev.com/ghpvc/?username=Esteban-Mo&color=orange)
+![](https://komarev.com/ghpvc/?username=Nauwk07&color=orange)
