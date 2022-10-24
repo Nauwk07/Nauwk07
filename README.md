@@ -6,8 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at Intech Nîmes, south of France.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence & Backend Development in general.\
 ✍️ &nbsp;In my free time, I develop different personal projects.\
-✉️ &nbsp;You can shoot me an email at nauwk07@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.nauwk.fr/) for more details about me.
+✉️ &nbsp;You can shoot me an email at alexaandremtu@gmail.com I'll try to respond as soon as I can.\
 
 ##### My social network
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/alexandremxthieu/)
