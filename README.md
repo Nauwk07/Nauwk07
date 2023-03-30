@@ -85,3 +85,7 @@
   
 ### [📊](https://wakatime.com/@Nauwk07) Coding time
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
