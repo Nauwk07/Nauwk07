@@ -1,13 +1,13 @@
-![Discord](https://dcbadge.vercel.app/api/shield/224537059308732416?compact=true)
+![Discord](https://dcbadge.vercel.app/api/shield/726243834597474304?compact=true)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/massart-gael)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.massart@groupe-aen.info)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandremxthieu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandremtu@gmail.com)
 
-#### 🙌 My name is Gaël
+#### 🙌 My name is Alexandre
 #### 🎓 French software engineering student
 #### 📍 Currently an intern at [PACK SOLUTIONS](https://www.pack-solutions.com/)
-#### 🌱 Recently learned Java Android & NodeJS
+#### 🌱 Recently learned PL/SQL & Spring Batch
 
 ## 🛠 Tech Stack
 
@@ -99,4 +99,18 @@
   </p>
   
   
-### [📊](https://wakatime.com/@Pexilo) Coding time
+### [📊](https://wakatime.com/@Nauwk07) Coding time
+<!--START_SECTION:waka-->
+
+```text
+JavaScript       86 hrs 26 mins  🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.59 %
+TypeScript       69 hrs 13 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.49 %
+Java             63 hrs 9 mins   🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.34 %
+XML              18 hrs 51 mins  🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.67 %
+JSON             14 hrs 39 mins  🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.18 %
+CSS              6 hrs 35 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.33 %
+```
+
+<!--END_SECTION:waka-->
+  
+![](https://hit.yhype.me/github/profile?user_id=67436391)
