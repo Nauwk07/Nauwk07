@@ -1,25 +1,102 @@
-### 👨🏻‍💻 &nbsp;About Me
+![Discord](https://dcbadge.vercel.app/api/shield/224537059308732416?compact=true)
+![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science at Intech Nîmes, south of France.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence & Backend Development in general.\
-✍️ &nbsp;In my free time, I develop different personal projects.\
-✉️ &nbsp;You can shoot me an email at alexandremtu@gmail.com I'll try to respond as soon as I can.\
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/massart-gael)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.massart@groupe-aen.info)
 
-##### My social network
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/alexandremxthieu/)
+#### 🙌 My name is Gaël
+#### 🎓 French software engineering student
+#### 📍 Currently an intern at [PACK SOLUTIONS](https://www.pack-solutions.com/)
+#### 🌱 Recently learned Java Android & NodeJS
 
-### 🛠 &nbsp;Tech Stack
-##### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=plastic) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=plastic) 
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=plastic) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=plastic) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=plastic) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=plastic)
+## 🛠 Tech Stack
 
-##### Framework & Libraries
-![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=plastic) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white&style=plastic) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=plastic)
-  ![JWT/JSON Web Token](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=plastic) ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=plastic) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white&style=plastic)
-
-##### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic)
-
-
-![](https://komarev.com/ghpvc/?username=Nauwk07&color=orange)
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img
+    src="https://angular.io/assets/images/logos/angular/angular.svg"
+    alt="angular"
+    width="40"
+    height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+    >
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+      />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+      />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+      />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+        alt="bash"
+        width="40"
+        height="40"
+      />
+    </a>
+  </p>
+  
+  
+### [📊](https://wakatime.com/@Pexilo) Coding time
