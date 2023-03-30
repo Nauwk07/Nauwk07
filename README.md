@@ -1,4 +1,4 @@
-![Discord](https://dcbadge.vercel.app/api/shield/726243834597474304?compact=true)
+![Discord](https://dcbadge.vercel.app/api/shield/726243834597474304)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandremxthieu)
