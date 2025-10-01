@@ -1,6 +1,6 @@
 # Hi, I'm Nauwk 👋
 
-**Backend Software Engineer** specializing in secure web applications and Discord bot development
+**Fullstack Software Engineer** specializing in secure web applications and Discord bot development
 
 ## About Me
 
