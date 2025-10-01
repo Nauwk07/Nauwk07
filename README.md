@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,nextjs,react,angular,spring,nodejs,dotnet,postgres,mongodb,mariadb,docker,aws,cloudflare,github,gitlab,linux,photoshop,rider,jquery,jenkins,npm,stackoverflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,nextjs,react,angular,spring,nodejs,dotnet,postgres,mongodb,lua,mysql,obsidian,twitter,webstorm,docker,aws,cloudflare,github,gitlab,linux,photoshop,rider,jquery,jenkins,npm,stackoverflow&theme=dark)](https://skillicons.dev)
 
 ## Current Focus
 
