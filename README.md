@@ -4,7 +4,7 @@
 
 ## About Me
 
-24-year-old software engineer focused on building robust and scalable backend systems. I'm passionate about creating secure applications and automation solutions that solve real-world problems.
+25-year-old software engineer focused on building robust and scalable backend systems. I'm passionate about creating secure applications and automation solutions that solve real-world problems.
 
 ## Tech Stack
 
